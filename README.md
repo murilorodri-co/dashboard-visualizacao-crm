@@ -62,6 +62,10 @@ crm-dashboard/
 ├─ README.md           # Documentação
 ```
 
+## 🌐 Versão Online
+O app está hospedado no **Streamlit Cloud**, você pode acessar diretamente através do link:  
+💻 [Abrir App](https://data-cleaning-e-preprocessing-de-vendas-de-cafe-34dse96b4ihv3x.streamlit.app)
+
 ## 📫 Contato
 Desenvolvido por **Murilo Rodrigues**
 - GitHub: https://github.com/murilorodri-co
