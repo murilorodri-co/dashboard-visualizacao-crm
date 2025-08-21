@@ -1,37 +1,27 @@
 # CRM Dashboard - Análise Interativa de Clientes
 
-![Dashboard Preview](https://img.shields.io/badge/Status-Ativo-brightgreen)
-![Python Version](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.30-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.26-orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen)
 
----
+## Sobre o Projeto
+Este projeto consiste em um **Dashboard Interativo de CRM** desenvolvido com **Python** e **Streamlit**, permitindo análise explorativa de clientes e métricas de vendas. O diferencial deste projeto é a **integração com o MongoDB Atlas**, que armazena todos os dados de clientes, produtos, pedidos e métricas de marketing, possibilitando consultas dinâmicas e atualizações em tempo real.
 
-## 🔹 Sobre o Projeto
-Este projeto consiste em um **Dashboard Interativo de CRM**, desenvolvido em **Python** usando **Streamlit**, que permite analisar clientes, produtos, vendas e métricas de marketing de forma visual e intuitiva.
+## Funcionalidades
+- Visualização de **métricas gerais**: clientes ativos, receita total, top cliente, ticket médio e total de pedidos.
+- Análise de **clientes por país**.
+- Ranking dos **top produtos mais vendidos**.
+- Receita por **canais de marketing**.
+- Distribuição de **NPS (Net Promoter Score)**.
+- Filtro por **data** e por **país**.
+- Visualização compacta de todos os gráficos para rápida análise.
 
-Com este dashboard, é possível:
-- Visualizar métricas gerais de clientes e vendas.
-- Filtrar dados por período e país.
-- Analisar o desempenho de produtos e canais de marketing.
-- Observar a distribuição do NPS (Net Promoter Score) dos clientes.
-- Ter uma visão geral de todos os gráficos em uma única tela.
-
-## 🖥 Funcionalidades
-- Filtro de data e país.
-- Métricas principais: Clientes ativos, Receita total, Top cliente, Ticket médio, Total de pedidos, Pedidos por cliente.
-- Gráficos:
-  - Clientes por país
-  - Top produtos vendidos
-  - Receita por canal de marketing
-  - Distribuição do NPS
-- Interface interativa e responsiva.
-
-## ⚡ Tecnologias Utilizadas
-- Python 3.10+
-- Streamlit
-- Pandas
-- Plotly
-- PyMongo
+## Tecnologias Utilizadas
+- **Python 3.12**
+- **Streamlit** para visualização interativa
+- **MongoDB Atlas** para armazenamento e consulta de dados
+- **Pandas** para manipulação de dados
+- **Plotly** para gráficos customizados
 
 ## 🚀 Como Executar Localmente
 1. Clone este repositório:
@@ -67,9 +57,9 @@ Exemplo de link público: [Clique aqui para acessar](https://share.streamlit.io/
 crm-dashboard/
 │
 ├─ app.py              # Arquivo principal do Streamlit
+├─ Digital Sales - Customer Data.csv           # Dataset
 ├─ requirements.txt    # Dependências do projeto
 ├─ README.md           # Documentação
-└─ images/             # Screenshots do dashboard
 ```
 
 ## 💡 Melhorias Futuras
@@ -79,10 +69,8 @@ crm-dashboard/
 - Adicionar gráficos interativos com Plotly.
 
 ## 📫 Contato
-Desenvolvido por **Seu Nome**
-- GitHub: [seu-usuario](https://github.com/murilorodri-co)
-- LinkedIn: [Seu LinkedIn](in/murilo-rodrigues-8153292b9)
+Desenvolvido por **Murilo Rodrigues**
+- GitHub: https://github.com/murilorodri-co
+- LinkedIn: in/murilo-rodrigues-8153292b9
 
 ---
-
-> Esse projeto é open-source e pode ser utilizado como referência ou adaptado para outros dashboards de análise de clientes.
