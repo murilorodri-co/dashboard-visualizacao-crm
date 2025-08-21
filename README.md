@@ -64,7 +64,7 @@ crm-dashboard/
 
 ## 🌐 Versão Online
 O app está hospedado no **Streamlit Cloud**, você pode acessar diretamente através do link:  
-💻 [Abrir App](https://data-cleaning-e-preprocessing-de-vendas-de-cafe-34dse96b4ihv3x.streamlit.app)
+💻 [Abrir App](https://dashboard-visualizacao-crm-mvf4sjugrgdjvaij775mkc.streamlit.app)
 
 ## 📫 Contato
 Desenvolvido por **Murilo Rodrigues**
