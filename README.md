@@ -62,15 +62,9 @@ crm-dashboard/
 ├─ README.md           # Documentação
 ```
 
-## 💡 Melhorias Futuras
-- Adicionar autenticação de usuários.
-- Implementar filtros avançados (por produto, canal ou categoria).
-- Integrar com outras fontes de dados (API externa).
-- Adicionar gráficos interativos com Plotly.
-
 ## 📫 Contato
 Desenvolvido por **Murilo Rodrigues**
 - GitHub: https://github.com/murilorodri-co
-- LinkedIn: in/murilo-rodrigues-8153292b9
+- LinkedIn: [in/murilo-rodrigues-8153292b9](https://www.linkedin.com/in/murilo-rodrigues-8153292b9)
 
 ---
